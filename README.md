@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CheManKLD
 - 👀 I’m interested in finding new opportunities to grow as a programmer
 - 🌱 I’m currently learning Python
-- 📫 How to reach me by email cherrydmtr@gmail.com
+- 📫 You can reach me by email: cherrydmtr@gmail.com
 
 <!---
 CheManKLD/CheManKLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
