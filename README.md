@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CheManKLD
-- 👀 I’m interested in finding new possibilities for grow up as programmer
+- 👀 I’m interested in finding new opportunities to grow as a programmer
 - 🌱 I’m currently learning Python
 - 📫 How to reach me by email cherrydmtr@gmail.com
 
